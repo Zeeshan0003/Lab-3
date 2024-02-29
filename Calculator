@@ -5,4 +5,5 @@ int main()
 {
 cout<<"My name is: "<<"Zeeshan Atif";
 cout<<"My roll no is: "<<"23-st-002";
+cout<<"The addition of these 2 numbers"<<a+b;
 }
